@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import sitemap from "@astrojs/sitemap";
-const site = 'https://bibtex.eu/';
+const site = 'https://bibtex.studio/';
 
 
 // https://astro.build/config
